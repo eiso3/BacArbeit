@@ -1,0 +1,267 @@
+[
+  {
+    "id": 13,
+    "createdBy": "Ersteller4",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"},\"edges\":{\"arrows\":\"to\",\"smooth\":{\"enabled\":false,\"type\":\"vertical\"}},\"layout\":{\"hierarchical\":{\"enabled\":true,\"direction\":\"LR\",\"sortMethod\":\"directed\"}},\"groups\":{\"start\":{\"color\":\"#ffff00\",\"edges\":{\"color\":\"#ffa500\"}},\"MMDFTable\":{\"color\":\"#ffaec9\"},\"MMDFProgram\":{\"color\":\"#97c2fc\"},\"MMDFTraco\":{\"color\":\"#7bff41\"}},\"physics\":{\"enabled\":true,\"solver\":\"hierarchicalRepulsion\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}},\"legendEnabled\":true,\"legendPosition\":\"right\",\"legendSize\":\"20\"",
+    "name": "Mainframe program dependencies (2 levels)",
+    "visualizationType": "graphvisjs",
+    "description": " The image is a digital representation of a neural network or a similar kind of machine learning model. It shows a diagram with nodes (representing data points or features) connected by lines that signify the relationships between these nodes, such as weights or correlations. Each node has a label that could be a feature name or identifier, and some nodes are highlighted in color, possibly indicating important features or clusters of similar features. The central node with a yellow color might represent the output layer or a particular point of interest within the network architecture. This kind of visualization is often used to explain complex data structures, particularly in machine learning applications where such networks are trained on datasets for various purposes like classification and prediction. ",
+    "tags": [
+      {
+        "tag": "software",
+        "weight": 0.5
+      },
+      {
+        "tag": "programming",
+        "weight": 0.3
+      },
+      {
+        "tag": "dependencies",
+        "weight": 0.7
+      },
+      {
+        "tag": "mainframe",
+        "weight": 0.2
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 15,
+    "createdBy": "Ersteller5",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Applications of an organization",
+    "visualizationType": "graphvisjs",
+    "description": " This is a screenshot of a user interface with an organizational chart or a network diagram. The central node in the graph is labeled \"Application\" with a subnode \"Applications 175\". Surrounding this central node are various nodes, each connected to it, representing different applications. Each node is connected by a line, indicating their relationships or interconnections.\n\nThe nodes display application numbers and titles such as \"Application 678\", \"Application 201\", \"Application 754\", and so on. Some of these application names are partially obscured or not fully visible due to the resolution of the image. The layout appears to be a radial structure with a central focus on the main application, with other applications branching outward.\n\nThe background is a dark gradient, and the nodes are colored in shades of blue, yellow, and black, making it easy to distinguish between different applications or entities within the graph. The overall style of the image suggests a digital interface or presentation used for organizational purposes, possibly related to software development or management. ",
+    "tags": [
+      {
+        "tag": "organization",
+        "weight": 0.5
+      },
+      {
+        "tag": "applications",
+        "weight": 0.3
+      },
+      {
+        "tag": "software",
+        "weight": 0.2
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 36,
+    "createdBy": "Ersteller2",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "People in an organization",
+    "visualizationType": "graphvisjs",
+    "description": " The image appears to be a screenshot of a computer interface, specifically what looks like a network diagram or an organizational chart. The main element is a circular node labeled \"Person 649,\" with radiating lines that connect it to other nodes. These nodes are labeled with numbers indicating their positions within the structure. Some nodes have a yellow dot, while others have blue dots, suggesting different roles or categories of personnel.\n\nThe text \"Can you describe this image?\" suggests that the image is meant to be described for some purpose, possibly related to organizational analysis or network visualization. ",
+    "tags": [
+      {
+        "tag": "organization",
+        "weight": 0.5
+      },
+      {
+        "tag": "people",
+        "weight": 0.3
+      },
+      {
+        "tag": "graph",
+        "weight": 0.2
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 39,
+    "createdBy": "Ersteller1",
+    "configuration": "{\"randomColor\":false,\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Applications, Modules and Technologies of a solution architect (TreeMap)",
+    "description": " The image appears to be a screenshot of an application or program interface. It has a colorful, grid-like layout with various nodes connected by lines, suggesting some form of network or connection system. Each node is labeled with the word \"APPLICATION\" followed by a unique identification number, such as \"Application 123\" and \"Application 678.\" The numbers range from 0 to around 900.\n\nThe background of the grid is red, while each application node is colored differently, creating a vibrant and somewhat chaotic visual effect. In the top left corner, there's a legend or key that seems to associate colors with certain properties or attributes, but the text is too small to read clearly. The overall style suggests it could be a graphical representation from a database or network of applications, possibly in an educational or research context. ",
+    "visualizationType": "treemap",
+    "tags": [
+      {
+        "tag": "solution architecture",
+        "weight": 0.5
+      },
+      {
+        "tag": "software development",
+        "weight": 0.3
+      },
+      {
+        "tag": "tree map",
+        "weight": 0.2
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 44,
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"},\"edges\":{\"arrows\":\"to\",\"smooth\":{\"enabled\":false,\"type\":\"vertical\"}},\"layout\":{\"hierarchical\":{\"enabled\":true,\"sortMethod\":\"directed\",\"direction\":\"LR\"}},\"groups\":{\"start\":{\"color\":\"#ffff00\",\"edges\":{\"color\":\"#ffa500\"}},\"MMDFTable\":{\"color\":\"#ffaec9\"},\"MMDFProgram\":{\"color\":\"#97c2fc\"},\"MMDFTraco\":{\"color\":\"#7bff41\"}},\"physics\":{\"enabled\":true,\"solver\":\"hierarchicalRepulsion\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}},\"legendEnabled\":true,\"legendPosition\":\"right\",\"legendSize\":\"20\"",
+    "createdBy": "Ersteller5",
+    "name": "Mainframe program dependencies (1 level)",
+    "visualizationType": "graphvisjs",
+    "description": " The image displays a network diagram with nodes and edges that represent a network of some kind. At the top center, there is a node labeled \"temperature\" with a value of 0.2. Connected to this central node are several other nodes, each labeled with a different numerical value ranging from -15 to 867.\n\nThere are three types of edges connecting these nodes: blue lines, yellow lines, and black lines. The blue lines connect the \"temperature\" node with two additional nodes at the bottom left, while the yellow line connects it with the second-largest node on the right side of the image. The black lines connect this largest node to four other nodes, which are connected together by a group of three blue lines.\n\nAdditionally, there is a legend in the bottom left corner of the image that indicates the colors and their associated numerical values, suggesting that the colors may represent some form of data or status within the network represented. The colors in the legend match those used in the diagram: blue for -15, yellow for 0.2, and black for values ranging from 867 to -15. ",
+    "tags": [
+      {
+        "tag": "software",
+        "weight": 0.8
+      },
+      {
+        "tag": "programming",
+        "weight": 0.6
+      },
+      {
+        "tag": "dependencies",
+        "weight": 0.9
+      },
+      {
+        "tag": "mainframe",
+        "weight": 0.7
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 57,
+    "createdBy": "Ersteller3",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Technology Usage",
+    "visualizationType": "graphvisjs",
+    "description": " The image is a digital graphic, possibly a screenshot of a software interface or a network visualization tool. It features a central node labeled \"temperature 0.2\" with various other nodes connected to it by lines, indicating relationships or connections between these entities. The nodes are color-coded and have labels such as \"APKNAME,\" \"REVIEWS_NUMERIC,\" and others, suggesting that they represent different parameters or metrics related to a software application.\n\nThe central node is surrounded by a series of concentric circles containing red and yellow dots connected by lines, which might indicate the distribution or weighting of the connections from this central node. The overall color scheme includes shades of blue, yellow, and white. There are no visible texts that provide additional context about the purpose or nature of this network visualization. ",
+    "tags": [
+      {
+        "tag": "software",
+        "weight": 0.5
+      },
+      {
+        "tag": "technology",
+        "weight": 0.3
+      },
+      {
+        "tag": "module",
+        "weight": 0.2
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": 71,
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "createdBy": "Ersteller2",
+    "name": "Stakeholders of a technology (person level)",
+    "visualizationType": "graphvisjs",
+    "description": " The image shows a conceptual diagram featuring three nodes connected by lines. Each node is labeled with different numbers: \"Person 134,\" \"Person 218,\" and \"Person 670.\" These labels suggest that the nodes represent individuals or entities, possibly in a context of social interactions, technology use, or some form of quantitative analysis.\n\nThe connections between the nodes are marked with two different colors: blue and yellow. The lines connecting \"Person 134\" to \"Person 218\" are colored blue, while those from \"Person 670\" to \"Person 134\" are in yellow. This color-coding may imply some form of relationship or interaction between the individuals, such as a professional network, friendship connections, or perhaps some form of data transfer or influence.\n\nAdditionally, there is text within the diagram that reads \"Technology 961,\" indicating that this might be one aspect of what influences the interactions or relationships among the labeled people. The word \"Technology\" could suggest that digital tools or communication platforms are part of the dynamics depicted in this illustration.\n\nThe background is a simple dark color, which helps to highlight the elements within the diagram. The overall style of the image suggests it might be used in an academic or technical context, such as a presentation slide, report, or educational material related to data science, social networks, or similar fields. ",
+    "image": "",
+    "tags": [
+      {
+        "tag": "technology",
+        "weight": 0.5
+      },
+      {
+        "tag": "stakeholder",
+        "weight": 0.3
+      },
+      {
+        "tag": "person-level",
+        "weight": 0.2
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "createdBy": "Ersteller3",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Stakeholders of a technology (organizational level)",
+    "visualizationType": "graphvisjs",
+    "description": " The image displays a diagram that appears to be a network or organizational chart. At the center, there is a hexagonal node labeled \"Technology 123\" connected to four other nodes by straight lines. Each of these connecting lines has two colored dots, one blue and one yellow, with the blue dot on the left side of the line and the yellow dot on the right side.\n\nThe four nodes that connect to the central hexagon are labeled as follows:\n\n- The top-left node is labeled \"Organization 123\" and has a blue dot connected to it.\n- The top-right node is labeled \"Organization 456\" and has a yellow dot connected to it.\n- The bottom-left node is labeled \"Organization 789\" and has a blue dot connected to it.\n- The bottom-right node is labeled \"Organization 1011\" and also has a blue dot connected to it.\n\nEach of these nodes seems to represent an organization, and the structure suggests a hierarchical or networked relationship between them, possibly indicating a complex system or a model for interconnected entities within a larger context, such as a company or a network of companies. The colors are used to differentiate between the connections, which could signify different types of relationships or roles between the organizations. ",
+    "image": "",
+    "tags": [
+      {
+        "tag": "technology",
+        "weight": 0.5
+      },
+      {
+        "tag": "stakeholder",
+        "weight": 0.3
+      },
+      {
+        "tag": "organizational",
+        "weight": 0.2
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "createdBy": "Ersteller5",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Applications and business functions of a solution architect (Graph)",
+    "visualizationType": "graphvisjs",
+    "description": " The image is a graphical representation, specifically a network diagram or a node-link diagram. It depicts a set of nodes connected by edges to illustrate some form of network or relationship among entities.\n\nThere are 14 nodes in the diagram, each represented by a circle with a label indicating its name or identity. The nodes are colored differently: seven are blue, five are red, and two are yellow. One node is highlighted in orange, which might indicate it as a point of interest or importance.\n\nThe edges connecting these nodes represent some form of relationship or interaction among the entities represented by the nodes. Each edge has an associated weight, indicated by the number on the line between the nodes. The numbers next to the edges could be values representing the strength, frequency, or other quantitative measures of the relationships or interactions between the connected nodes.\n\nThe diagram is colorful and uses arrows to denote the directionality of the connections. Additionally, there is a legend in the bottom right corner, which seems to explain the colors and possibly the types or categories of relationships depicted by the different colors.\n\nOverall, the image is a visual representation likely used for analytical purposes, such as data analysis, social network analysis, or systems modeling, to understand complex patterns of interaction among various entities. ",
+    "image": "",
+    "tags": [
+      {
+        "tag": "solution-architecture",
+        "weight": 0.5
+      },
+      {
+        "tag": "business-functions",
+        "weight": 0.3
+      },
+      {
+        "tag": "applications",
+        "weight": 0.2
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "createdBy": "Ersteller1",
+    "configuration": "{\"options\":{\"nodes\":{\"shape\":\"dot\"}},\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"},\"edgeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Applications and modules of a solution architect (Graph)",
+    "visualizationType": "graphvisjs",
+    "description": " The image displays a visual representation of a network or graph. At the center, there is a node with a label of \"0.2\" and connected to it are multiple nodes. Each of these connected nodes has a label on it, indicating that they represent some kind of relationship or data point associated with the central node. The labels on the connected nodes display numerical values ranging from 0.1 to 0.95.\n\nThe connections between the nodes form a network, which could be interpreted as a system where each node represents an entity or a variable, and their interconnections represent relationships or interactions between them. The color of the nodes is varied, with different colors possibly representing different categories or groups within the network.\n\nThis type of image is commonly used in fields like computer science, graph theory, social networks, and other areas where visualizing connections and data structures is important for understanding the structure and dynamics of a system. ",
+    "image": "",
+    "tags": [
+      {
+        "tag": "solution",
+        "weight": 0.8
+      },
+      {
+        "tag": "architecture",
+        "weight": 0.6
+      },
+      {
+        "tag": "graph",
+        "weight": 0.9
+      },
+      {
+        "tag": "visjs",
+        "weight": 0.7
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "createdBy": "Ersteller3",
+    "configuration": "{\"randomColor\":false,\"labelMapping\":{\"nodeLabels\":{\"originalLabel\":\"newLabel\"}}}",
+    "name": "Technologies of a solution architect (TreeMap)",
+    "visualizationType": "treemap",
+    "description": " The image is a simple graphic with a purple background. It appears to be a slide from a presentation, as indicated by the \"Person 529\" text and the number \"132\" in white font towards the bottom right corner. There is also a smaller piece of information on the bottom left side that reads \"568740,\" which could be related to an index or reference number within the context of the presentation. The overall style of the image is minimalistic, with no additional graphics or images present. ",
+    "image": "",
+    "tags": [
+      {
+        "tag": "solution",
+        "weight": 0.5
+      },
+      {
+        "tag": "architecture",
+        "weight": 0.3
+      },
+      {
+        "tag": "tree-map",
+        "weight": 0.2
+      }
+    ]
+  }
+]
